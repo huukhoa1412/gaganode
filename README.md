@@ -16,6 +16,6 @@ sudo git clone https://github.com/huukhoa1412/gaganode.git
 cd gaganode
 sudo chmod +x gaganode
 sudo apt-get update -y && sudo apt-get -y install curl tar ca-certificates && sudo apt-get -y install screen
-screen -R a2nk
+screen -R khoa
 sudo ./gaganode
 ```
